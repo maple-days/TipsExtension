@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <sub><b>Maple Days</b> · 《打脸日常》整合包附属 mod · Minecraft 1.12.2</sub>
+  <sub><b>Maple Days</b> · 《打脸日常》整合包 mod · Minecraft 1.12.2</sub>
 </p>
 
 # Tips Extension
