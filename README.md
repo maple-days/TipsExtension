@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/maple-days"><img src="https://github.com/maple-days.png?size=96" width="56" alt="Maple Days"></a>
+</p>
+
+<p align="center">
+  <sub><b>Maple Days</b> · 《打脸日常》整合包附属 mod · Minecraft 1.12.2</sub>
+</p>
+
 # Tips Extension
 
 给 **Tips** 模组加两样东西：**暂停菜单里的提示语**，以及**呼吸灯（渐隐渐显）效果**。
